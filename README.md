@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ekpono Ambrose 👋
+# Ekpono Ambrose
 **Fullstack Software Engineer · 8+ Years · Edinburgh, UK**
 
 </div>
