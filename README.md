@@ -34,7 +34,7 @@ Fullstack engineer specialising in real-time systems, fintech, and AI-powered pl
 
 #### [Global Voices](https://www.globalvoices.com/)
 ![status](https://img.shields.io/badge/status-Live-brightgreen?style=flat-square) ![stack](https://img.shields.io/badge/stack-AWS%20|%20Docker%20|%20CI%2FCD-blue?style=flat-square)
-- Sole developer at a UK translation and interpretation agency serving global clients including BBC, UNICEF, Adidas and Airbus
+- Fullstack developer at a UK translation and interpretation agency serving global clients including BBC, UNICEF, Adidas and Airbus
 - Built and maintained the company website, client portal, and linguist portal
 - Handled all deployments, server provisioning, CI/CD pipelines, and cloud infrastructure on AWS
 
