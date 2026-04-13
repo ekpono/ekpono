@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ekpono Ambrose
+# Ekpono Ambrose 👋
 **Fullstack Software Engineer · 8+ Years · Edinburgh, UK**
 
 </div>
@@ -13,7 +13,7 @@
 
 ---
 
-Fullstack engineer specialising in real-time systems, fintech, and AI-powered platforms. I've built products serving 200k+ users and led teams from zero to production across the UK and Africa.
+Fullstack Software Engineer specialized in building real-time systems, fintech solutions, and AI-powered platforms. With over 8 years of experience, I’ve led engineering teams from zero to production, creating products that have served over 200k users and managed millions in transactions. Currently based in Edinburgh, UK. 
 
 ---
 
