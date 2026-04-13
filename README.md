@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a results-driven fullstack engineer with 8+ years building scalable web applications, real-time systems, and mobile apps. I've shipped products across **Fintech**, **InsurTech**, **AI/NLP**, **eCommerce**, and **Healthcare** — from solo architecture decisions to leading engineering teams in agile sprints.
+I'm a results-driven fullstack engineer with 8+ years building scalable web applications, real-time systems, and mobile apps. I've shipped products across **Fintech**, **InsurTech**, **AI/NLP**, **eCommerce**, and **Healthcare**,  from solo architecture decisions to leading engineering teams in agile sprints.
 
 I thrive at the intersection of clean architecture and business impact. Whether it's wiring up real-time AI interpretation pipelines or designing loan disbursement platforms serving 200k+ users, I build software that moves the needle.
 
