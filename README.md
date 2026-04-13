@@ -66,7 +66,7 @@ An AI-powered platform enabling real-time cross-language communication for corpo
 
 ---
 
-### 🏥 [Sacana](https://www.sacana.co.uk) — Real-Time Healthcare Translation Platform
+### 🏥 [Sacana](https://www.sacana.co.uk) - Real-Time Healthcare Translation Platform
 
 A real-time translation platform for client-matron communication in healthcare settings.
 
@@ -79,7 +79,7 @@ A real-time translation platform for client-matron communication in healthcare s
 
 ---
 
-### 🛡 [Curacel](https://www.curacel.co) — Embedded Insurance Platform
+### 🛡 [Curacel](https://www.curacel.co) - Embedded Insurance Platform
 > **Curacel · 2023–2024**
 
 A digital insurance platform for Fintech, eCommerce, and Logistics companies across Africa.
@@ -94,7 +94,7 @@ A digital insurance platform for Fintech, eCommerce, and Logistics companies acr
 
 ---
 
-### 🏢 MYWORK ERP — Enterprise Resource Planning System
+### 🏢 MYWORK ERP - Enterprise Resource Planning System
 > **TheBulb · 2018–2022**
 
 A comprehensive ERP system modernising enterprise HR and operations.
@@ -111,7 +111,7 @@ A comprehensive ERP system modernising enterprise HR and operations.
 
 ---
 
-### 💰 [Tradefi](https://tradefi.ng) — Investment Platform
+### 💰 [Tradefi](https://tradefi.ng) - Investment Platform
 > **TheBulb · 2018–2022**
 
 A fintech platform enabling Nigerians to invest in FGN Bonds, Treasury Bills, FSB, and Naira products.
@@ -127,7 +127,7 @@ A fintech platform enabling Nigerians to invest in FGN Bonds, Treasury Bills, FS
 
 ---
 
-### 💳 [QuickCredit](https://quickcredit.com.ng) — Loan Platform
+### 💳 QuickCredit - Loan Platform
 > **TheBulb · 2018–2022**
 
 A lending platform for SMEs and individuals to access fast, secure loans.
@@ -188,7 +188,6 @@ I'm always open to interesting projects, collaborations, and conversations about
 
 - 💼 [linkedin.com/in/ekpono](https://linkedin.com/in/ekpono)
 - 📧 [ekponoambrose@gmail.com](mailto:ekponoambrose@gmail.com)
-- 📞 +44 7778 681493
 
 ---
 
